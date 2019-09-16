@@ -36,13 +36,13 @@ Learning to efficiently read a paper is a critical but rarely taught skill, this
 	- Understand the paper in depth
 	- Attempt to *virtually re-implement* the paper
 	- Think about how you yourself would present a particular idea
-	- Jot doen ideas for future work
+	- Jot down ideas for future work
 	- Could take about 4-5 hours for beginners, and about an hour for experienced reader
 
 ## Results
 
-The author used this approch for the last 15 years(2007) to read conference proceedings, write reviews, do background research, and to quickly review a paper before discussion. This discipline approach prevent from drowning in the details before getting a bird's-eye-view. It allows one to estimate the amount of time required to review a set of papers. Moreover, you can adjust the depth of paper evaluation depending on your own needs and how much time you have.
+The author used this approch for the last 15 years(2007) to read conference proceedings, write reviews, do background research, and to quickly review a paper before discussion. This disciplined approach prevent from drowning in the details before getting a bird's-eye-view. It allows one to estimate the amount of time required to review a set of papers. Moreover, you can adjust the depth of paper evaluation depending on your own needs and how much time you have.
 
 ## Discussion
 
-Great directions for reading a paper, especially for a beginner such as a undergraguate student.
+Great directions for reading a paper, especially for a beginner such as a undergraduate student.
