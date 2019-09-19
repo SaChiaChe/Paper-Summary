@@ -38,8 +38,8 @@ Image registration is the process of finding the optimal alignment between image
 ## Results
 
 - Two types of datasets are used
-	1.a multi-temporal satellite image dataset acquired from Google Earth
-	2.a multi-temporal UAV image dataset captured using a small UAV (DJI Phantom 4 Pro) with a CMOS camera
+	- a multi-temporal satellite image dataset acquired from Google Earth
+	- a multi-temporal UAV image dataset captured using a small UAV (DJI Phantom 4 Pro) with a CMOS camera
 
 1. **Feature Prematching Precision Test**
 
