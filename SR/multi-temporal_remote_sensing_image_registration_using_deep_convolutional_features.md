@@ -34,7 +34,6 @@ Image registration is the process of finding the optimal alignment between image
 	- Points selected as inliers guide the movement of point locations whereas outliers are moved coherently
 	- Use EM theory to optimize a cost and stop when converge
 
-
 ## Results
 
 - Two types of datasets are used
@@ -59,4 +58,5 @@ Image registration is the process of finding the optimal alignment between image
 2. VGG is used as the feature extraction backbone in this paper, maybe we could try other models such as ResNet or Inception as backbone
 3. Only 3 different sized features were used for descriptors, maybe we could try with more features(beware of computation)
 4. Every 8x8 will only have one description, which is more even than SIFT, but also performs better than SIFT. This might be good for our application, since the number of matched points would be a better measurement if total number of descriptors is fixed
-5. The dynamic inlier selection is only for transformation(similar to homography with SIFT), might not need it for our application(also speeds up time, since this is the most time-consuming part)
+5. Threshold for prematching is determined by the quality of all descriptors, thus will alway get around the same number of matched points, maybe could use a fixed threshold or other methods to represent similarity
+6. The dynamic inlier selection is only for transformation(similar to homography with SIFT), might not need it for our application(also speeds up time, since this is the most time-consuming part)
