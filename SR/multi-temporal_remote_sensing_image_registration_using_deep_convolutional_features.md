@@ -9,7 +9,7 @@ Image registration is the process of finding the optimal alignment between image
 ![](./figure/multi-temporal_remote_sensing_image_registration_using_deep_convolutional_features.png)
 
 
-1. **Generating Feature Descriptors**
+1. *Generating Feature Descriptors*
 - Use *VGG16* as backbone and take 3 pooling layer's output to build feature
 	- pool_3: $28\times28\times256$
 	- pool_4: $14\times14\times512$
@@ -20,7 +20,7 @@ Image registration is the process of finding the optimal alignment between image
 	- $F_3$: Resize pool_5 with Kronecker product $I_{4\times4\times1}$
 - Normalize: $D_i(x) = \dfrac{F_i(x)}{\sigma(F_i(x))}, i=1,2,3$
 
-2. **Feature Prematching**
+2. *Feature Prematching*
 - Distance between 2 feature points are weighted sum of 3 distant values
 	- $d(x,y)=\sqrt2d_1(x,y)+d_2(x,y)+d_3(x,y)$
 	- $d_i(x,y) = Euclidean-distance(D_i(x), D_i(y))$
@@ -28,7 +28,7 @@ Image registration is the process of finding the optimal alignment between image
 	- $d(x,y)$ is the smallest of all $d(\cdot, y)$
 	- All other $d(x,y)$ are greater than a threshold $\theta$
 
-3. **Dynamic Inlier Selection**
+3. *Dynamic Inlier Selection*
 - Select Inliers for transformation iteratively
 	- Starting with a high threshold to select confident pairs and slowly lowers the threshold over time
 	- Points selected as inliers guide the movement of point locations whereas outliers are moved coherently
@@ -40,11 +40,11 @@ Image registration is the process of finding the optimal alignment between image
 	- a multi-temporal satellite image dataset acquired from Google Earth
 	- a multi-temporal UAV image dataset captured using a small UAV (DJI Phantom 4 Pro) with a CMOS camera
 
-1. **Feature Prematching Precision Test**
+1. *Feature Prematching Precision Test*
 
 ![](./figure/multi-temporal_remote_sensing_image_registration_using_deep_convolutional_features_result1.png)
 
-2. **Image Regisration Accuracy Test**
+2. *Image Regisration Accuracy Test*
 
 - Satellite:
 ![](./figure/multi-temporal_remote_sensing_image_registration_using_deep_convolutional_features_result2.png)
