@@ -5,5 +5,9 @@
   - [[summary](./mpeg-a_video_compression_standard_for_multimedia_application.md)] Chia-Che, Sa
 
 - Summarizing Video Using a Shot Importance Measure and a Frame-Packing Algorithm
-  - [[paper](https://www.fxpal.com/publications/summarizing-video-using-a-shot-importance-measure-and-a-frame-packing-algorithm.pdf)] S. Uchihashi and J. Foote ICASSP, 1999
+  - [[paper](https://www.fxpal.com/publications/summarizing-video-using-a-shot-importance-measure-and-a-frame-packing-algorithm.pdf)] S. Uchihashi and J. Foote, ICASSP, 1999
   - [[summary](./summarizing_video_using_a_shot_importance_measure_and_a_frame-packing_algorithm.md)] Chia-Che, Sa
+
+- MPEG-7 Visual Shape Descriptors
+  - [[paper](http://www.ee.columbia.edu/~sfchang/course/vis/REF/bober-01.pdf)] M. Bober, IEEE, 2001
+  - [[summary](./mpeg-7_visual_shape_descriptors.md)] Chia-Che, Sa
