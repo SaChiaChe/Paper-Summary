@@ -15,3 +15,7 @@
 - Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
   - [[paper](https://inc.ucsd.edu/~marni/Igert/Lazebnik_06.pdf)] S. Lazebnik, C. Schmid, J. Ponce, CVPR, 2006
   - [[summary](./beyond_bags_of_features-spatial_pyramid_matching_for_recognizing_natural_scene_categories.md)] Chia-Che, Sa
+
+- Texture Features for Browsing and Retrieval of Image Data
+  - [[paper](https://www.csie.ntu.edu.tw/~b97053/paper/Texture%20features%20for%20browsing%20and%20retrieval%20of%20image%20data.pdf)]  B. S. Manjunath, W.Y. Ma, IEEE, 1996
+  - [[summary](./texture_features_for_browsing_and_retrieval_of_image_data.md)] Chia-Che, Sa
