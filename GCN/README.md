@@ -26,3 +26,4 @@
 - **Graph Learning Convolutional Networks**
     - [[paper](https://arxiv.org/pdf/1811.09971.pdf)] Bo Jiang, Ziyan Zhang, Doudou Lin, Jin Tang
     - [[summar](./graph_learning_convolutional_networks.md)] Chia-Che, Sa
+    
