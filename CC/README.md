@@ -11,3 +11,7 @@
 - MPEG-7 Visual Shape Descriptors
   - [[paper](http://www.ee.columbia.edu/~sfchang/course/vis/REF/bober-01.pdf)] M. Bober, IEEE, 2001
   - [[summary](./mpeg-7_visual_shape_descriptors.md)] Chia-Che, Sa
+
+-Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
+  - [[paper](https://inc.ucsd.edu/~marni/Igert/Lazebnik_06.pdf)] S. Lazebnik, C. Schmid, J. Ponce, CVPR, 2006
+  - [[summary](./beyond_bags_of_features-spatial_pyramid_matching_for_recognizing_natural_scene_categories.md)] Chia-Che, Sa
