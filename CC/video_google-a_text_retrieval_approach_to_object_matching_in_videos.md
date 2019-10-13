@@ -27,6 +27,7 @@ The aim of this paper is to retrieve the key frames or shots of a video containi
 ## Results:
 
 Object query example 
+
 ![](./figure/video_google-a_text_retrieval_approach_to_object_matching_in_videos_result.png)
 
 
