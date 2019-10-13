@@ -7,4 +7,4 @@
  
 - Spot the Difference by Object Detection 
   - [[paper](https://arxiv.org/pdf/1801.01051.pdf)] J. Wu1, Y. Ye, Y. Chen, Z. Weng, 2018
-  - [[summary](./spot_the_difference_by_object_detection.mdd)] Chia-Che, Sa
+  - [[summary](./spot_the_difference_by_object_detection.md)] Chia-Che, Sa
