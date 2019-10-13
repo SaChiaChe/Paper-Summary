@@ -21,5 +21,5 @@
   - [[summary](./texture_features_for_browsing_and_retrieval_of_image_data.md)] Chia-Che, Sa
 
 - Video Google: A Text Retrieval Approach to Object Matching in Videos
-  [[paper](http://www.robots.ox.ac.uk/~vgg/publications/papers/sivic03.pdf)] J. Sivic, A. Zisserman, ICCV, 2003
+  - [[paper](http://www.robots.ox.ac.uk/~vgg/publications/papers/sivic03.pdf)] J. Sivic, A. Zisserman, ICCV, 2003
   - [[summary](./video_google-a_text_retrieval_approach_to_object_matching_in_videos.md)] Chia-Che, Sa
