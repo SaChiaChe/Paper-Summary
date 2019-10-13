@@ -17,5 +17,9 @@
   - [[summary](./beyond_bags_of_features-spatial_pyramid_matching_for_recognizing_natural_scene_categories.md)] Chia-Che, Sa
 
 - Texture Features for Browsing and Retrieval of Image Data
-  - [[paper](https://www.csie.ntu.edu.tw/~b97053/paper/Texture%20features%20for%20browsing%20and%20retrieval%20of%20image%20data.pdf)]  B. S. Manjunath, W.Y. Ma, IEEE, 1996
+  - [[paper](https://www.csie.ntu.edu.tw/~b97053/paper/Texture%20features%20for%20browsing%20and%20retrieval%20of%20image%20data.pdf)] B. S. Manjunath, W.Y. Ma, IEEE, 1996
   - [[summary](./texture_features_for_browsing_and_retrieval_of_image_data.md)] Chia-Che, Sa
+
+- Video Google: A Text Retrieval Approach to Object Matching in Videos
+  [[paper](http://www.robots.ox.ac.uk/~vgg/publications/papers/sivic03.pdf)] J. Sivic, A. Zisserman, ICCV, 2003
+  - [[summary](./video_google-a_text_retrieval_approach_to_object_matching_in_videos.md)] Chia-Che, Sa
