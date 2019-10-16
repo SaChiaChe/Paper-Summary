@@ -8,15 +8,15 @@ In speaker change detection, we will not have prior information about the speake
 
 ![](./figure/a_new_speaker_change_detection_method_for_two-speaker_segmentation.png)
 
-1. *Speaker 1 Data Selection (a)*
+1. *Speaker 1 Data Selection*
 - Begin of conversation is assumed to represent speaker 1
 - Assume speaker 1 speaks at least 1 second
 
-2. *Distance Computation (a)*
+2. *Distance Computation*
 - Sequence of Generalized Likelihood Ratio (GLR) is computed between selected segment for speaker 1 ($S_1$) and shifted segments ($d_i$)
 - The distance sequence is mean and variance normalized and smoothed using a sliding window
 
-3. *Speaker 2 Data Selection (b)*
+3. *Speaker 2 Data Selection*
 - The segment whose distance is the largest and is not silence is assumed to represent speaker 2
 - Arrows in (b) point out candidate regions
 
