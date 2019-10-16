@@ -52,4 +52,4 @@ This paper addresses the problem of real time speaker change detection and speak
 ## Discussion
 
 1. Could change the sub-segment length shorter for more accurate resule (but more computation)
-2. Adaptive thresholdis a good idea to use
+2. Adaptive threshold is a good idea to use
