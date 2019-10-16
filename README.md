@@ -14,3 +14,4 @@ Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) f
 - [Graph Convolution Networks](./GCN)
 - [Special Research](./SR)
 - [Cognitive Computing](./CC)
+- [Speaker Change Detection](./SCD)
