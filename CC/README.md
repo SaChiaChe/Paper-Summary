@@ -23,3 +23,7 @@
 - Video Google: A Text Retrieval Approach to Object Matching in Videos
   - [[paper](http://www.robots.ox.ac.uk/~vgg/publications/papers/sivic03.pdf)] J. Sivic, A. Zisserman, ICCV, 2003
   - [[summary](./video_google-a_text_retrieval_approach_to_object_matching_in_videos.md)] Chia-Che, Sa
+
+- FaceTracer: A Search Engine for Large Collections of Images with Faces
+  - [[paper](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Kumar_ECCV08.pdf)] N. Kumar, P. N. Belhumeur, S. K. Nayar, ECCV, 2008
+  - [[summary](./facetracer-a_search_engine_for_large_collections_of_images_with_faces.md)] Chia-Che, Sa
