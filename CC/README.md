@@ -29,5 +29,5 @@
   - [[summary](./facetracer-a_search_engine_for_large_collections_of_images_with_faces.md)] Chia-Che, Sa
 
 - Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval
-  - [[paper](http://cmlab.csie.ntu.edu.tw/~sirius42/papers/chen14eccv.pdf)] B. C. Chen, C. S. Chen, W. H. Hsu
+  - [[paper](http://cmlab.csie.ntu.edu.tw/~sirius42/papers/chen14eccv.pdf)] B. C. Chen, C. S. Chen, W. H. Hsu, ECCV, 2014
   - [[summary](./cross-age_reference_coding_cor_age-invariant_face_recognition_and_retrieval.md)] Chia-Che, Sa
