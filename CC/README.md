@@ -27,3 +27,7 @@
 - FaceTracer: A Search Engine for Large Collections of Images with Faces
   - [[paper](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Kumar_ECCV08.pdf)] N. Kumar, P. N. Belhumeur, S. K. Nayar, ECCV, 2008
   - [[summary](./facetracer-a_search_engine_for_large_collections_of_images_with_faces.md)] Chia-Che, Sa
+
+- Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval
+  - [[paper](http://cmlab.csie.ntu.edu.tw/~sirius42/papers/chen14eccv.pdf)] B. C. Chen, C. S. Chen, W. H. Hsu
+  - [[summary](./cross-age_reference_coding_cor_age-invariant_face_recognition_and_retrieval.md)] Chia-Che, Sa
