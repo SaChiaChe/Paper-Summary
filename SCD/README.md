@@ -10,4 +10,5 @@
 
 - Speaker Change Detection Using Features through A Neural Network Speaker Classifier
   - [[paper](https://arxiv.org/pdf/1702.02285.pdf)] Z. Ge, A. N. Iyer, S. Cheluvaraja, A. Ganapathiraju, IntelliSys, 2017
+  - [[source code](https://github.com/philipperemy/speaker-change-detection)] Tensorflow, Keras
   - [[summary](./speaker_change_detection_using_features_through_a_neural_network_speaker_classifier.md)] Chia-Che, Sa
