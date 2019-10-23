@@ -1,6 +1,3 @@
----
-tags: Paper Summary, Speaker Change Detection
----
 # Speaker Change Detection Using Features through A Neural Network Speaker Classifier
 
 ## Introduction
