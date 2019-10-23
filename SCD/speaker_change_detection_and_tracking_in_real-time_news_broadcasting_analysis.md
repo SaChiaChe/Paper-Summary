@@ -10,7 +10,7 @@ This paper addresses the problem of real time speaker change detection and speak
 
 
 1. *Feature Selection and Distance Measure*
-- Use LPS, MFCC and pitch features and Bayesian Fuse them to get more reliable result
+- Use LSP, MFCC and pitch features and Bayesian Fuse them to get more reliable result
 - Distance is determined by covariance and mean, since mean is high biased due to environment, ignore parts that contain mean
 
 2. *Speaker Change Detection*
