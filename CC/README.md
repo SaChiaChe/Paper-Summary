@@ -31,3 +31,7 @@
 - Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval
   - [[paper](http://cmlab.csie.ntu.edu.tw/~sirius42/papers/chen14eccv.pdf)] B. C. Chen, C. S. Chen, W. H. Hsu, ECCV, 2014
   - [[summary](./cross-age_reference_coding_cor_age-invariant_face_recognition_and_retrieval.md)] Chia-Che, Sa
+  
+- Locality-Sensitive Hashing for Finding Nearest Neighbors
+  - [[paper](https://www.slaney.org/malcolm/yahoo/Slaney2008-LSHTutorial.pdf)] M. Slaney, M. Casey, IEEE Signal Processing Magazine, 2008
+  - [[summary](./locality-sensitive_hashing_for_finding_nearest_neighbors.md)] Chia-Che, Sa
