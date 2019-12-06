@@ -35,3 +35,7 @@
 - Locality-Sensitive Hashing for Finding Nearest Neighbors
   - [[paper](https://www.slaney.org/malcolm/yahoo/Slaney2008-LSHTutorial.pdf)] M. Slaney, M. Casey, IEEE Signal Processing Magazine, 2008
   - [[summary](./locality-sensitive_hashing_for_finding_nearest_neighbors.md)] Chia-Che, Sa
+
+- Visualizing Data using t-SNE
+  - [[paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)] Laurens van der Maaten, Geoffrey Hinton, The Journal of Machine Learning Research, 2008
+  - [[summary](./visualizing_data_using_t-sne.md)] Chia-Che, Sa
