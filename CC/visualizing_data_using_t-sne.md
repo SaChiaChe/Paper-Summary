@@ -6,12 +6,12 @@ Visualization of high-dimensional data is an important problem in many different
 
 ## Method
 
-1. Stocastic Neighbor Embedding
+1. *Stocastic Neighbor Embedding*
 - Convcert high-dimensional Euclidean distances between data points into conditional probability that represents simlilarity.
 - Focuses on retaining local structure
 - Sensitive to initial amount of Gausian noise and the rate which it decays
 
-2. t-Distributed Stochastic Neighbor Embedding
+2. *t-Distributed Stochastic Neighbor Embedding*
 - Uses a symmetrized version of the SNE cost function with simpler gradients
 - Uses a Student-t distribution rather than a Gaussian to compute the similarity between two points in the low-dimensional space.
 
