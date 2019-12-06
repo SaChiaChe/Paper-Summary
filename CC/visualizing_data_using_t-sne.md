@@ -1,6 +1,3 @@
----
-tags: Paper Summary, Cognitive Computing
----
 # Visualizing Data using t-SNE
 
 ## Introduction
