@@ -39,3 +39,7 @@
 - Visualizing Data using t-SNE
   - [[paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)] Laurens van der Maaten, Geoffrey Hinton, The Journal of Machine Learning Research, 2008
   - [[summary](./visualizing_data_using_t-sne.md)] Chia-Che, Sa
+
+- Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+  - [[paper](https://arxiv.org/pdf/1603.08155.pdf)] J. Johnson, A. Alahi, Li Fei-Fei, ECCV, 2016
+  - [[summary](./perceptual_losses_for_real-time_style_transfer_and_super-resolution.md)] Chia-Che, Sa
