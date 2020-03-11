@@ -6,7 +6,7 @@ Data augmentation is a technique that helps preventing overfitting, and also enr
 
 ## Method
 
-![](./figure/a_survey_on_image_data_augmentation_for_deep_laerning.jpg)
+![](./figure/a_survey_on_image_data_augmentation_for_deep_learning.jpg)
 
 1. *Basic image manipulations*
 	- Flipping
