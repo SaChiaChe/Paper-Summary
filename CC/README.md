@@ -1,5 +1,5 @@
 # Cognitive Computing
-Here are some recommanded paper in the course "Cognitive Computing", 2019 fall, NTUCSIE, instructed by prof. Winston Hsu (徐宏民).
+Recommanded paper in the course "Cognitive Computing", 2019 fall, NTUCSIE, instructed by prof. Winston Hsu (徐宏民).
 
 - MPEG: A Video Compression Standard for Multimedia Application
   - [[paper](https://sites.cs.ucsb.edu/~almeroth/classes/W10.290F/papers/legall-acm-91.pdf)] D. Le Gall, ACM, 1991
