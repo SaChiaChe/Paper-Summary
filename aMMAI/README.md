@@ -1,4 +1,5 @@
 # Advanced Topics in Multimedia Analysis and Indexing
+Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Indexing", instructed by prof. Winston Hsu (徐宏民).
 
 - Rethinking ImageNet Pre-training
   - [[paper](https://arxiv.org/pdf/1811.08883.pdf)] He et al., ICCV, 2019
