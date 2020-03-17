@@ -15,5 +15,5 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 
 - ArcFace: Additive Angular Margin Loss for Deep Face Recognition
   - [[paper](https://arxiv.org/pdf/1801.07698.pdf)] Deng et al., CVPR, 2019
-  - [[source]](https://github.com/deepinsight/insightface) MXNet
+  - [[source code]](https://github.com/deepinsight/insightface) MXNet
   - [[summary](./arcface-additive_angular_margin_loss_for_deep_face_recognition.md)] Chia-Che, Sa
