@@ -17,3 +17,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
   - [[paper](https://arxiv.org/pdf/1801.07698.pdf)] Deng et al., CVPR, 2019
   - [[source code]](https://github.com/deepinsight/insightface) MXNet
   - [[summary](./arcface-additive_angular_margin_loss_for_deep_face_recognition.md)] Chia-Che, Sa
+  
+- PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+  - [[paper](https://arxiv.org/pdf/1612.00593.pdf)] Qi et al., CVPR, 2017
+  - [[summary](./pointnet-deep_learning_on_point_sets_for_3d_classification_and_segmentation.md)] Chia-Che, Sa
