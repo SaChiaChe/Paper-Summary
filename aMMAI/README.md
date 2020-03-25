@@ -21,3 +21,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
   - [[paper](https://arxiv.org/pdf/1612.00593.pdf)] Qi et al., CVPR, 2017
   - [[summary](./pointnet-deep_learning_on_point_sets_for_3d_classification_and_segmentation.md)] Chia-Che, Sa
+
+- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+  - [[paper](https://arxiv.org/pdf/1711.06396.pdf)] Zhou et al., CVPR, 2018
+  - [[summary](./voxelnet-end-to-end_learning_for_point_cloud_based_3d_object_detection.md)] Chia-Che, Sa
