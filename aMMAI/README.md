@@ -25,3 +25,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
   - [[paper](https://arxiv.org/pdf/1711.06396.pdf)] Zhou et al., CVPR, 2018
   - [[summary](./voxelnet-end-to-end_learning_for_point_cloud_based_3d_object_detection.md)] Chia-Che, Sa
+
+- Learning to Hash for Indexing Big Data – A Survey
+  - [[paper](https://arxiv.org/pdf/1509.05472.pdf)] Wang et al., Proceedings of the IEEE, 2016
+  - [[summary](./learning_to_hash_for_indexing_big_data-a_survey.md)] Chia-Che, Sa
