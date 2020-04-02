@@ -29,3 +29,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 - Learning to Hash for Indexing Big Data – A Survey
   - [[paper](https://arxiv.org/pdf/1509.05472.pdf)] Wang et al., Proceedings of the IEEE, 2016
   - [[summary](./learning_to_hash_for_indexing_big_data-a_survey.md)] Chia-Che, Sa
+  
+  - A Survey on Learning to Hash
+  - [[paper](https://arxiv.org/pdf/1606.00185.pdf)] J. Wang, T. Zhang, j. song, N. Sebe and H. T. Shen, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018
+  - [[summary](./a_survey_on_learning_to_hash.md)] Chia-Che, Sa
