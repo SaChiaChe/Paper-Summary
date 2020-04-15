@@ -34,6 +34,6 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
   - [[paper](https://arxiv.org/pdf/1606.00185.pdf)] J. Wang, T. Zhang, j. song, N. Sebe and H. T. Shen, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018
   - [[summary](./a_survey_on_learning_to_hash.md)] Chia-Che, Sa
   
-  - Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
+- Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
   - [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4016549)] Shuicheng Yan et al., PAMI, 2007
   - [[summary](./graph_embedding_and_extensions-a_general_framework_for_dimensionality_reduction.md)] Chia-Che, Sa
