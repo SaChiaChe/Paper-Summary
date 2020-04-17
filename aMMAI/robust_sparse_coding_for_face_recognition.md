@@ -22,11 +22,13 @@ Sparse representation based classification (SRC) has been successfully used in f
 	- $\rho_\theta(e_i)=\frac{-1}{2\mu}(\ln (1+\exp(\mu\delta-\mu e_i^2)))-\ln(1+\exp(\mu\delta))$
 2. *Algorithm of RSC*
 - Initialize $y_{rec}$ as mean of all training image and iterate the following algorithm until converge or maximum number of iterations reached
-a. Compute residual $e^{(t)}=y-y_{rec}$
-b. Estimate $w_\theta(e_i^{(t)})$ with formula induced above
-c. Solve the approximated RSC
-d. Update sparse coding coefficients
-e. Compute reconstructed test sample $y_{rec}^{(t+1)}=D\alpha^{(t+1)}$
+<ol type="a">
+  <li>Compute residual $e^{(t)}=y-y_{rec}$</li>
+  <li>Estimate $w_\theta(e_i^{(t)})$ with formula induced above</li>
+  <li>Solve the approximated RSC</li>
+  <li>Update sparse coding coefficients</li>
+  <li>Compute reconstructed test sample $y_{rec}^{(t+1)}=D\alpha^{(t+1)}$</li>
+</ol>
 
 ## Results
 
