@@ -40,4 +40,4 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
   
 - Robust Sparse Coding for Face Recognition
   - [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995393)] Yang et al., CVPR, 2011
-  - [[summary](./robust_sparse_coding_for_face_.md)] Chia-Che, Sa
+  - [[summary](./robust_sparse_coding_for_face_recognition.md)] Chia-Che, Sa
