@@ -37,3 +37,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 - Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
   - [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4016549)] Shuicheng Yan et al., PAMI, 2007
   - [[summary](./graph_embedding_and_extensions-a_general_framework_for_dimensionality_reduction.md)] Chia-Che, Sa
+  
+- Robust Sparse Coding for Face Recognition
+  - [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995393)] Yang et al., CVPR, 2011
+  - [[summary](./robust_sparse_coding_for_face_.md)] Chia-Che, Sa
