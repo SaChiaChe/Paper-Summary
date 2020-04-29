@@ -41,3 +41,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 - Robust Sparse Coding for Face Recognition
   - [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995393)] Yang et al., CVPR, 2011
   - [[summary](./robust_sparse_coding_for_face_recognition.md)] Chia-Che, Sa
+
+- A Bayesian Hierarchical Model for Learning Natural Scene Categories
+  - [[paper](http://vision.stanford.edu/documents/Fei-FeiPerona2005.pdf)] Fei Fei Li, CVPR, 2005
+  - [[summary](./a_bayesian_hierarchical_model_for_learning_natural_scene_categories.md)] Chia-Che, Sa
