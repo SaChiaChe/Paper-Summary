@@ -8,7 +8,7 @@ The success of deep learning models in computer vision tasks heavily relies on t
 
 1. *Baseline*
 
-![](./figure/a_closer_look_at_few_shot_classification_1.jpg)
+![](./figure/a_closer_look_at_few-shot_classification_1.jpg)
 
 - Baseline: 
     - Training: Train from scratch by minimizing standard cross-entropy loss
@@ -20,7 +20,7 @@ The success of deep learning models in computer vision tasks heavily relies on t
 
 2. *Meta-Learning*
 
-![](./figure/a_closer_look_at_few_shot_classification_2.jpg)
+![](./figure/a_closer_look_at_few-shot_classification_2.jpg)
 
 Train on small base support set and query set to learn to learn from small support set.
 
@@ -40,7 +40,7 @@ Evaluated on commonly used mini-ImageNet and CUB-200-2011 dataset
 
 1. *Evaluation using the Standard Setting*
 
-![](./figure/a_closer_look_at_few_shot_classification_result_1.jpg)
+![](./figure/a_closer_look_at_few-shot_classification_result_1.jpg)
 
 - Using a 4-layer convolution backbone with 84x84 input size
 - Perform 5-way classification for only novel classes during the fine-tuning or meta-testing stage
@@ -48,21 +48,21 @@ Evaluated on commonly used mini-ImageNet and CUB-200-2011 dataset
 
 2. *Effect of Increasing Network Depth*
 
-![](./figure/a_closer_look_at_few_shot_classification_result_2.jpg)
+![](./figure/a_closer_look_at_few-shot_classification_result_2.jpg)
 
 - On the CUB dataset, as the backbone gets deeper, the gap among different methods drastically reduces
 - The result of mini-ImageNet is much more complicated, might due to domain differences, mini-ImageNet have larger divergence than CUB in a word-net hierarchy
 
 3. *Effect of Domain Differences*
 
-![](./figure/a_closer_look_at_few_shot_classification_result_3.jpg)
+![](./figure/a_closer_look_at_few-shot_classification_result_3.jpg)
 
 - Proposed a new *cross-domain scenario*: mini-ImageNet $\rightarrow$ CUB
 - A practical scenario since collecting images from general class may be relatively easy but collecting images from fine-grained classes might be more diffucult
 
 4. *Effect of Further Adaptation*
 
-![](./figure/a_closer_look_at_few_shot_classification_result_4.jpg)
+![](./figure/a_closer_look_at_few-shot_classification_result_4.jpg)
 
 - Adapt the novel classes by training on it more
 - Performance improves in most cases
