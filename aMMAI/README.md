@@ -45,3 +45,9 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 - A Bayesian Hierarchical Model for Learning Natural Scene Categories
   - [[paper](http://vision.stanford.edu/documents/Fei-FeiPerona2005.pdf)] Fei Fei Li, CVPR, 2005
   - [[summary](./a_bayesian_hierarchical_model_for_learning_natural_scene_categories.md)] Chia-Che, Sa
+
+- A Closer Look at Few-Shot Classification
+  - [[paper](https://openreview.net/pdf?id=HkxLXnAcFQ)] Chen et al., ICLR, 2019
+  - [[source code]](https://github.com/wyharveychen/CloserLookFewShot) Pytorch
+  - [[summary](./a_closer_look_at_few-shot_classification.md)] Chia-Che, Sa
+  
