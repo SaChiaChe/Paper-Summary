@@ -51,3 +51,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
   - [[source code]](https://github.com/wyharveychen/CloserLookFewShot) Pytorch
   - [[summary](./a_closer_look_at_few-shot_classification.md)] Chia-Che, Sa
   
+- Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges
+  - [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8253600)] Cheng et al., ICLR, 2019
+  - [[summary](./model_compression_and_acceleration_for_deep_neural_networks-the_principles_progress_and_challenges.md)] Chia-Che, Sa
+  
