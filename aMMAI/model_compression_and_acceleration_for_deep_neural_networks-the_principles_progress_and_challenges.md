@@ -1,4 +1,4 @@
-# Model Compression and Acceleration for Deep Neural Networks
+# Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges
 
 ## Introduction
 
