@@ -55,3 +55,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
   - [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8253600)] Cheng et al., ICLR, 2019
   - [[summary](./model_compression_and_acceleration_for_deep_neural_networks-the_principles_progress_and_challenges.md)] Chia-Che, Sa
   
+- Bi-Directional Attention Flow for Machine Comprehension
+  - [[paper](https://arxiv.org/pdf/1611.01603.pdf)] Seo et al., ICLR, 2017
+  - [[source code]](https://github.com/allenai/bi-att-flow) Tensorflow, NLTK
+  - [[summary](./bi-directional_attention_flow_for_machine_comprehension.md)] Chia-Che, Sa
