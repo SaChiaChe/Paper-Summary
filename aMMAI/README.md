@@ -15,7 +15,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 
 - ArcFace: Additive Angular Margin Loss for Deep Face Recognition
   - [[paper](https://arxiv.org/pdf/1801.07698.pdf)] Deng et al., CVPR, 2019
-  - [[source code]](https://github.com/deepinsight/insightface) MXNet
+  - [[source code](https://github.com/deepinsight/insightface)] MXNet
   - [[summary](./arcface-additive_angular_margin_loss_for_deep_face_recognition.md)] Chia-Che, Sa
   
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
@@ -48,7 +48,7 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
 
 - A Closer Look at Few-Shot Classification
   - [[paper](https://openreview.net/pdf?id=HkxLXnAcFQ)] Chen et al., ICLR, 2019
-  - [[source code]](https://github.com/wyharveychen/CloserLookFewShot) Pytorch
+  - [[source code](https://github.com/wyharveychen/CloserLookFewShot)] Pytorch
   - [[summary](./a_closer_look_at_few-shot_classification.md)] Chia-Che, Sa
   
 - Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges
@@ -57,10 +57,10 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
   
 - Bi-Directional Attention Flow for Machine Comprehension
   - [[paper](https://arxiv.org/pdf/1611.01603.pdf)] Seo et al., ICLR, 2017
-  - [[source code]](https://github.com/allenai/bi-att-flow) Tensorflow, NLTK
+  - [[source code](https://github.com/allenai/bi-att-flow)] Tensorflow, NLTK
   - [[summary](./bi-directional_attention_flow_for_machine_comprehension.md)] Chia-Che, Sa
   
 - “Why Should I Trust You?” Explaining the Predictions of Any Classifier
   - [[paper](https://arxiv.org/pdf/1602.04938.pdf)] Ribeiro et al., KDD, 2016
-  - [[source code]](https://github.com/marcotcr/lime-experiments) Sklearn, Scipy
+  - [[source code](https://github.com/marcotcr/lime-experiments)] Sklearn, Scipy
   - [[summary](./why_should_i_trust_you_explaining_the_predictions_of_any_classifier.md)] Chia-Che, Sa
