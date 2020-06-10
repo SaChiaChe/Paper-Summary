@@ -59,3 +59,8 @@ Recommanded papers in the course "Advanced Topics in Multimedia Analysis and Ind
   - [[paper](https://arxiv.org/pdf/1611.01603.pdf)] Seo et al., ICLR, 2017
   - [[source code]](https://github.com/allenai/bi-att-flow) Tensorflow, NLTK
   - [[summary](./bi-directional_attention_flow_for_machine_comprehension.md)] Chia-Che, Sa
+  
+- “Why Should I Trust You?” Explaining the Predictions of Any Classifier
+  - [[paper](https://arxiv.org/pdf/1602.04938.pdf)] Ribeiro et al., KDD, 2016
+  - [[source code]](https://github.com/marcotcr/lime-experiments) Sklearn, Scipy
+  - [[summary](./why_should_i_trust_you_explaining_the_predictions_of_any_classifier.md)] Chia-Che, Sa
