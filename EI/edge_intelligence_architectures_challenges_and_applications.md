@@ -9,7 +9,7 @@ This paper is a survey about recent research and achievements on edge intellegen
 
 ## Method
 
-![](https://i.imgur.com/0c0ncjA.jpg)
+![](./figure/edge_intelligence_architectures_challenges_and_applications_1.jpg)
 
 1. *Edge Caching*
     - What to cache?
@@ -28,7 +28,7 @@ This paper is a survey about recent research and achievements on edge intellegen
 ## Results
 
 1. *Edge Caching*
-![](https://i.imgur.com/etyCV5j.jpg)
+![](./figure/edge_intelligence_architectures_challenges_and_applications_2.jpg)
 - Preliminary of Caching
     - Communication redundancy (Data redundancy)
     - Computation redundancy
@@ -49,7 +49,7 @@ This paper is a survey about recent research and achievements on edge intellegen
         - Popularity, Markov Decision Process
 
 2. *Edge Training*
-![](https://i.imgur.com/16Dq4ER.jpg)
+![](./figure/edge_intelligence_architectures_challenges_and_applications_3.jpg)
 - Training Architecture
     - Solo training
         - Size of neiral network and memory resource are key factor of training efficiency
@@ -86,7 +86,7 @@ This paper is a survey about recent research and achievements on edge intellegen
     - IoT
 
 3. *Edge Inference*
-![](https://i.imgur.com/e4QoXNC.jpg)
+![](./figure/edge_intelligence_architectures_challenges_and_applications_4.jpg)
 - Model Design
     - Architecture search
         - NASNet, AmoebaNet and Adanet
@@ -119,7 +119,7 @@ This paper is a survey about recent research and achievements on edge intellegen
         - Compilers
         
 4. *Edge Offloading*
-![](https://i.imgur.com/5Mp8fgF.jpg)
+![](./figure/edge_intelligence_architectures_challenges_and_applications_5.jpg)
 - Device-to-Cloud (D2C)
     - Data transportation is bottleneck of whole procedure
     - Depends on internet connectivity
