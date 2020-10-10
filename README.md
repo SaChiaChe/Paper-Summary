@@ -16,3 +16,4 @@ Summary of  papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) format :
 - [Cognitive Computing](./CC)
 - [Speaker Change Detection](./SCD)
 - [Advanced Topics in Multimedia Analysis and Indexing](./aMMAI)
+- [Edge Intelligence](./EI)
