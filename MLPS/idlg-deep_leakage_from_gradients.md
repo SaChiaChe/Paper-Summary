@@ -8,15 +8,14 @@ In DLG ([Deep Leakage from Gradients](https://papers.nips.cc/paper/2019/file/60a
 
 When using softmax and cross-entropy loss, the gradient is negative only on the target label. The derivation process is as the following:
 
-$l(x,c)=-\log\frac{e^{y_c}}{\sum_je^{y_j}}$
-$g_i=\frac{\partial{l(x,c)}}{\partial{y_i}}=-\frac{\partial{\log{e^{y_c}-\partial{\log{\sum_je^{y_j}}}}}}{\partial{y_i}}=\cases{-1+\frac{e^{y_c}}{\sum_je^{y_j}}<0, \ \text{ if }i=c\\\frac{e^{y_c}}{\sum_je^{y_j}}\geq0, \ \text{otherwise}}$
-$\nabla{W_L^i}=\frac{\partial{l(x,c)}}{\partial{W_L^i}}=\frac{\partial{l(x,c)}}{\partial{y^i}}{\cdot}\frac{\partial{y^i}}{\partial{W_L^i}}=g_i{\cdot}\frac{\partial({W_L^i}^Ta_{L-1})+b_L^i}{\partial{W^i_L}}=g_i{\cdot}a_{L-1}$
-$\text{Ground Truth label } c=i,\ s.t.\nabla{W_L^i}^T\cdot\nabla{W_L^j}, \forall{j{\neq}i}$
+<p align="center">
+  <img src="./figure/idlg-improved_deep_leakage_from_gradients.png"><br>
+</p>
 
 ## Results
 
 <p align="center">
-  <img src="./figure/idlg-deep_leakage_from_gradients.png"><br>
+  <img src="./figure/idlg-improved_deep_leakage_from_gradients_result.png"><br>
 </p>
 
 The extracted labels are 100%, while DLG might extract incorrect labels.
