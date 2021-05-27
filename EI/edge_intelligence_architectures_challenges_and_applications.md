@@ -1,6 +1,3 @@
----
-tags: Paper Summary, Edge Intellegence
----
 # Edge Intelligence: Architectures, Challenges, and Applications
 
 ## Introduction
