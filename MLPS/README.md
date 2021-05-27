@@ -8,4 +8,4 @@ This is the research for my master thesis, mostly focusing on federated learning
 - **iDLG: Improved Deep Leakage from Gradients** 
     - [[paper](https://arxiv.org/pdf/2001.02610.pdf)] Ligeng Zhu, Zhijian Liu, Song Han, arXiv:2001.02610v1 [cs.LG], 2020
     - [[source](https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients)] Pytorch
-    - [[summary](./idlg-imporved_deep_leakage_from_gradients.md)] Chia-Che, Sa
+    - [[summary](./idlg-improved_deep_leakage_from_gradients.md)] Chia-Che, Sa
