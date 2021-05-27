@@ -7,6 +7,7 @@ In distributed machine learning, exchanging only grdients instead of data is wid
 ## Method
 
 1. *Attack*
+
 ![](./figure/deep_leakage_from_gradients.png)
 
 The methodology is quite simple, we initiate with an dummy input and dummy target, and obtain the dummy gradients. Minimize the difference between the dummy gradients and ground truth gradients w.r.t. input and target. After convergence, the input and target will be revealed.
@@ -14,6 +15,7 @@ The methodology is quite simple, we initiate with an dummy input and dummy targe
 Note that this method only works when the model $F$ is two times differentiable (They replaced ReLU with Sigmoid and removed strides in neural networks to satisfy this property).
 
 2. *Defence*
+
 - *Noisy Gradients*
     - Add noises to the gradients (**Differntial Privacy**)
     - When sufficient noise is added, the attack fails, however, the performance of the model might be affected
